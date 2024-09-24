@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://app.daily.dev/drxs00"><img src="https://api.daily.dev/devcards/v2/zgCOPCJkPMe5riYl9WgGo.png?type=default&r=90o" width="356" alt="Drxs's Dev Card"/></a>
+<a href="https://app.daily.dev/drxs00"><img src="./devcard.png" width="356" alt="Drxs's Dev Card"/></a>
 <!--
 **DrxsDevv/DrxsDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
